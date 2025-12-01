@@ -63,7 +63,7 @@ The architecture is modular, allowing easy replacement or extension of emotion r
 
 ```bash
 # Clone the repository
-git clone https://git.cardiff.ac.uk/c21068582/empathetic-chatbots.git
+git clone https://github.com/yulianakaraivanova05/empathetic-chatbot.git
 
 
 # Install dependencies
