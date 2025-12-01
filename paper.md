@@ -17,13 +17,13 @@ authors:
   - name: Daniel J. Finnegan
     orcid: 0000-0003-1169-2842
     affiliation: 1
-    - name: Yipeng Qin
+  - name: Yipeng Qin
     orcid: 0000-0002-1551-9126
     affiliation: 1
 affiliations:
     - index: 1
       name: School of Computer Science and Informatics, Cardiff University
-date: 2025-08-22
+date: 29 November 2025
 bibliography: paper.bib
 ---
 
@@ -63,7 +63,7 @@ The architecture is modular, allowing easy replacement or extension of emotion r
 
 ```bash
 # Clone the repository
-git clone https://github.com/yulianakaraivanova05/empathetic-chatbot.git
+git clone https://git.cardiff.ac.uk/c21068582/empathetic-chatbots.git
 
 
 # Install dependencies
