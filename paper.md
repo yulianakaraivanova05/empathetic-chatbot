@@ -23,7 +23,7 @@ authors:
 affiliations:
     - index: 1
       name: School of Computer Science and Informatics, Cardiff University
-date: 29 November 2025
+date: 01 December 2025
 bibliography: paper.bib
 ---
 
